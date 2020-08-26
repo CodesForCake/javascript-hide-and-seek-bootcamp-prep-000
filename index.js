@@ -13,10 +13,10 @@ function increaseRankBy(n) {
   }
 }
 function deepestChild(node){
-/*  var firstDiv = document.getElementById('grand-node').querySelector('div');
+  var firstDiv = document.querySelector('grand-node').querySelector('div');
   if (firstDiv.innerHTML === "boo!"){
     return firstDiv.innerHTML;
   } else {
     deepestChild(firstDiv);  
-  }*/
+  }
 }
